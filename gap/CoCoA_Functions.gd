@@ -1,0 +1,1 @@
+DeclareGlobalFunction( "CoCoA_ZeroColumns" );
